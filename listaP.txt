@@ -822,3 +822,7 @@ pics.vc##img[src="http://s4.pics.vc/pics/s/c55/fff/856/2bf/c55fff8562bfa6c7182f7
 pics.vc##img[src="http://s4.pics.vc/pics/s/381/b21/a4a/45a/381b21a4a45aff9233d954983cf2a5be.jpg"]
 pics.vc##img[src="http://s4.pics.vc/pics/s/efb/488/38f/d32/efb48838fd32f89ccd90d1b85bad621a.jpg"]
 pics.vc##img[src="http://s4.pics.vc/pics/s/c89/fcb/266/6a9/c89fcb2666a9980d987da0a8adcdef25.jpg"]
+pics.vc##img[src="http://s4.pics.vc/pics/s/908/45d/49b/569/90845d49b569047b4d4a753a0d248ebc.jpg"]
+pics.vc##img[src="http://s4.pics.vc/pics/s/81f/cee/ca6/a8d/81fceeca6a8d1b223857a9c8f1596118.jpg"]
+pics.vc##img[src="http://s4.pics.vc/pics/s/b60/ec4/0a9/120/b60ec40a9120ce293c0533387b935b46.jpg"]
+pics.vc##img[src="http://s4.pics.vc/pics/s/312/75f/f14/f7b/31275ff14f7b4ab10cbd0ed679b9b8fb.jpg"]
