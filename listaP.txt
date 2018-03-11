@@ -1030,3 +1030,6 @@ pics.vc##img[src="http://s4.pics.vc/pics/s/436/750/7cc/e1c/4367507cce1c9b05dbb43
 pics.vc##img[src="http://s4.pics.vc/pics/s/449/0df/5a1/6ce/4490df5a16ce5d703f09f9d08e03dd78.jpg"]
 pics.vc##img[src="http://s4.pics.vc/pics/s/47a/8e2/378/f98/47a8e2378f985aa654a4926f965f53f2.jpg"]
 pics.vc##img[src="http://s4.pics.vc/pics/s/d02/87f/398/855/d0287f398855f8af30c2b2264ac0a1ff.jpg"]
+pics.vc##img[src="http://s4.pics.vc/pics/s/d8b/b14/498/386/d8bb14498386796fac2bc6912ef16e3f.jpg"]
+pics.vc##img[src="http://s4.pics.vc/pics/s/c27/d67/cef/5b8/c27d67cef5b82b5338b821672e820e2c.jpg"]
+pics.vc##img[src="http://s4.pics.vc/pics/s/5a7/add/5ea/504/5a7add5ea504289ec25f5b8f2be05664.jpg"]
