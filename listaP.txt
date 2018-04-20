@@ -1,7 +1,6 @@
 pics.vc###upload_div
 pics.vc##.gall_author_div
 pics.vc##.preimg_loader
-pics.vc##body > div:nth-of-type(7)
 pics.vc##img[src="http://s1.pics.vc/pics/s/007/93e/a1f/615/00793ea1f615d87644df592b59e5dc49.jpg"]
 pics.vc##img[src="http://s1.pics.vc/pics/s/01c/5d9/fc5/031/01c5d9fc50315cad843be62ddfb7d040.jpg"]
 pics.vc##img[src="http://s1.pics.vc/pics/s/01e/8ed/322/325/01e8ed3223250d466fffca1e6e13d646.jpg"]
