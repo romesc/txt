@@ -4929,6 +4929,7 @@ pics.vc##img[src="http://s4.pics.vc/pics/s/ffd/1f9/bcf/50d/ffd1f9bcf50d2555170bb
 pics.vc##img[src="http://s4.pics.vc/pics/s/ffd/ef1/635/126/ffdef16351267c7902f712c9a0d4c0e2.jpg"]
 yourporn.sexy###footer
 yourporn.sexy###logo_w
+yourporn.sexy###related_posts_container
 yourporn.sexy###top_banner
 yourporn.sexy##.addpost_wrap
 yourporn.sexy##.comments_area
