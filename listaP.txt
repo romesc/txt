@@ -4927,3 +4927,12 @@ pics.vc##img[src="http://s4.pics.vc/pics/s/ffa/1d1/0a2/712/ffa1d10a2712f76dfa805
 pics.vc##img[src="http://s4.pics.vc/pics/s/ffc/816/e51/f25/ffc816e51f259a17c7c848dbe2ee4e0b.jpg"]
 pics.vc##img[src="http://s4.pics.vc/pics/s/ffd/1f9/bcf/50d/ffd1f9bcf50d2555170bbd63b6ecafea.jpg"]
 pics.vc##img[src="http://s4.pics.vc/pics/s/ffd/ef1/635/126/ffdef16351267c7902f712c9a0d4c0e2.jpg"]
+yourporn.sexy###footer
+yourporn.sexy###logo_w
+yourporn.sexy###top_banner
+yourporn.sexy##.addpost_wrap
+yourporn.sexy##.comments_area
+yourporn.sexy##.notify_bar_control
+yourporn.sexy##.transition.playlist
+yourporn.sexy##a[href="/community/0.html"]
+yourporn.sexy##a[href="/live"]
